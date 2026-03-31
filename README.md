@@ -95,6 +95,12 @@ The Power BI dashboard includes:
 
 ---
 
+AI Feature
+
+This project integrates a local LLM (TinyLlama via Ollama)
+to automatically generate insights from stock data.
+Users can ask questions about the dataset in natural language.
+
 Author
 
-Created as a Data Analyst portfolio project demonstrating end-to-end data analysis skills using Python, SQL, and Power BI.
+Created as a Data Analyst portfolio project demonstrating end-to-end data analysis skills using Python, SQL, Power BI, AI Feature.
